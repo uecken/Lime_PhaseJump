@@ -1,4 +1,4 @@
-# grc-test
+# Lime_PhaseJump
 
 Sometimes, phase varies 180 degree by changing frequency.
 This 180 phase jump is disccused in below.
